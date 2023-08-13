@@ -1,6 +1,7 @@
 # Team-3-Loan-Predictions
 
 ### Authors
+
 Tara Dehdari, Sowmiya Kanmani Maruthavanan, Landon Padgett
 
 ## Data Source  
@@ -29,3 +30,6 @@ All the models compared to the baseline model had a higher accuracy, and their a
 
 Using your IDE of your choice run the codes one by one in order. Ensure you have keras, tensorflow, scikit-learn, and seaborne downloaded. 
 
+## Contact information
+
+For questions or conerns email us at
