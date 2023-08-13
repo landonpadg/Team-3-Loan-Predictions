@@ -1,5 +1,8 @@
 # Team-3-Loan-Predictions
 
+### Authors
+Tara Dehdari, Sowmiya Kanmani Maruthavanan, Landon Padgett
+
 ## Data Source  
 
 The data set was used from Kaggle and can be accessed at: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
