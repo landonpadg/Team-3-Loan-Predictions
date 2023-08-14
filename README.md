@@ -14,13 +14,15 @@ There were no missing values or outliers that needed to be handled. There were n
 
 ## Data Preprocessing
 
+All asset columns (residential_assets_value, commercial_assets_value, luxury_assets_value, and bank_assets_value) were aggregated into one column called total_assets. Transformation techniques were not needed because after the aggregation of the assets columns the dataset was normal. The fields including loan id, loan term, number of dependents, and self-employed, were excluded because it wouldn't help find our target variable (loan_status). The data set was partitioned into training and test subsets, 67% for training, and 33% for testing. 
+
 ## Model Building
 
 Five models were created as well as a basline model. The models used were logistic regression, K-neaerest neighbor, decision tree, random forest, neural network modeling, and then majority class classifier for our baseline model.
 
 ## Evaluation Metrics
 
-The models were compared to the baseline model to ensure they performed better than the base line model and than an AUC-ROC curve was created to see which model was the best.
+The models were compared to the baseline model to ensure they performed better than the baseline model and than an AUC-ROC curve was created to see which model was the best.
 
 ## Results
 
@@ -32,4 +34,4 @@ Using your IDE of your choice run the codes one by one in order. Ensure you have
 
 ## Contact information
 
-For questions or conerns email us at
+For questions or conerns email us at tdehdari@sandiego.edu, lpadgett@sandiego.edu, and/or smaruthavanan@sandiego.edu
