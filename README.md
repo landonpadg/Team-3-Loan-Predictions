@@ -30,7 +30,7 @@ All the models compared to the baseline model had a higher accuracy, and their a
 
 ## Usage
 
-Using your IDE of your choice run the codes one by one in order. Ensure you have keras, tensorflow, scikit-learn, and seaborne downloaded. 
+Using your IDE of your choice run the codes one by one in order. Ensure you have pandas, matplotlib, numpy, keras, tensorflow, scikit-learn, and seaborn downloaded. 
 
 ## Contact information
 
